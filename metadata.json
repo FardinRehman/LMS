@@ -1,0 +1,6 @@
+{
+  "name": "AcademiaOne - Unified Role-Based LMS",
+  "description": "Unified academic and learning management platform with shared RBAC, automated role resolution, curriculum scheduling, AI-assisted attendance verification, assessments, and gradebooks.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
